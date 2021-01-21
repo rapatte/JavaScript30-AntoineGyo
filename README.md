@@ -1,1 +1,1 @@
-# MiseEnPratique1
+JavaScript30 exercices finis
